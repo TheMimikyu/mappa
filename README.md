@@ -6,7 +6,7 @@ Generate mind maps using [Ollama](https://ollama.com/) local models and interact
 
 ## Demo
 
-[![Demo]()](https://raw.githubusercontent.com/TheMimikyu/mappa/refs/heads/main/public/demo.mp4)
+[![Demo](https://raw.githubusercontent.com/TheMimikyu/mappa/refs/heads/main/public/demo.png)](https://raw.githubusercontent.com/TheMimikyu/mappa/refs/heads/main/public/demo.mp4)
 
 
 ## Features
