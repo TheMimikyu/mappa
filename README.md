@@ -4,6 +4,10 @@ A [Next.js](https://nextjs.org) application for mind map visualization powered b
 
 Generate mind maps using [Ollama](https://ollama.com/) local models and interact with them through an intuitive interface.
 
+## Demo
+
+https://github.com/TheMimikyu/mappa/blob/main/public/demo.mp4
+
 ## Features
 
 - Interactive mind map visualization
